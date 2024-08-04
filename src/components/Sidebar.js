@@ -95,7 +95,7 @@
 // components/Sidebar.js
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { FaSpotify, FaSearch } from 'react-icons/fa';
+import { FaSpotify} from 'react-icons/fa';
 
 const SidebarContainer = styled.div`
   width: 300px;
